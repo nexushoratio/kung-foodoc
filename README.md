@@ -7,7 +7,7 @@ Fork of [FooDoc](https://github.com/steveush/foodoc) by Steve Usher, inspired by
 ## Features
 
 - Right side Table of Contents which auto hides on pages it's not required on.
-- Basic themeing is supported through the `systemColor` option and if required further customizations can be supplied using the `stylesheets` and `scripts` options.
+- Basic theming is supported through the `systemColor` option and if required further customizations can be supplied using the `stylesheets` and `scripts` options.
 - Integrated offline search across all doclets and there members (excludes source files).
 - Syntax highlighting using [Prism](https://github.com/PrismJS/prism) .
 - Breadcrumbs on every page for easy navigation.
