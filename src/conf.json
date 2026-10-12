@@ -6,7 +6,7 @@
   "templates": {
     "includeDate": true,
     "dateFormat": "Do MMM YYYY",
-    "systemName": "FooDoc",
+    "systemName": "Kung FooDoc",
     "systemSummary": "A Bootstrap and Handlebars based JSDoc3 template.",
     "systemLogo": "",
     "systemColor": "",

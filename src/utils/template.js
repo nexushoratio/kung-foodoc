@@ -64,7 +64,7 @@ const kinds = exports.kinds = {
 const options = exports.options = Object.assign({
   includeDate: true,
   dateFormat: 'Do MMM YYYY',
-  systemName: 'FooDoc',
+  systemName: 'Kung FooDoc',
   systemSummary: 'A Bootstrap and Handlebars based template for JSDoc3.',
   systemLogo: '',
   systemColor: '',
