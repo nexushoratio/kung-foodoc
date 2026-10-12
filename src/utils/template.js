@@ -70,7 +70,7 @@ const options = exports.options = Object.assign({
   systemColor: '',
   navMembers: [],
   footer: '',
-  copyright: 'FooDoc Copyright © 2016 The contributors to the JSDoc3 and FooDoc projects.',
+  copyright: 'Kung FooDoc Copyright © 2026 Henrique Pavanatti. FooDoc Copyright © 2016 The contributors to the JSDoc3 and FooDoc projects.',
   linenums: true,
   collapseSymbols: true,
   inverseNav: true,
