@@ -90,7 +90,7 @@ FooDoc ships with a `conf.json` file in the template/ directory. It is just a re
 
 - **systemName - `"Kung FooDoc"`**
   The name of the system being documented. This value is used to generate the *home* link in the navbar and the page title for the generated README page.
-- **systemSummary - `"A Bootstrap and Handlebars based JSDoc3 template."`**
+- **systemSummary - `"A Bootstrap and Handlebars based JSDoc4 template."`**
   The short summary description of the system being documented. This is used as part of the page title for the generated README page.
 - **systemLogo - `""`**
   A small 40x40 pixel image to used in the navbar along with the `systemName` to create the *home* link.

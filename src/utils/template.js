@@ -65,7 +65,7 @@ const options = exports.options = Object.assign({
   includeDate: true,
   dateFormat: 'Do MMM YYYY',
   systemName: 'Kung FooDoc',
-  systemSummary: 'A Bootstrap and Handlebars based template for JSDoc3.',
+  systemSummary: 'A Bootstrap and Handlebars based template for JSDoc4.',
   systemLogo: '',
   systemColor: '',
   navMembers: [],

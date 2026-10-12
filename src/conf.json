@@ -7,7 +7,7 @@
     "includeDate": true,
     "dateFormat": "Do MMM YYYY",
     "systemName": "Kung FooDoc",
-    "systemSummary": "A Bootstrap and Handlebars based JSDoc3 template.",
+    "systemSummary": "A Bootstrap and Handlebars based JSDoc4 template.",
     "systemLogo": "",
     "systemColor": "",
     "copyright": "FooDoc Copyright © 2016 The contributors to the JSDoc3 and FooDoc projects.",
